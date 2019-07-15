@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "montes5.github.io/converter/static/css/main.c19f8e97.chunk.css",
-    "main.js": "montes5.github.io/converter/static/js/main.932c4d01.chunk.js",
-    "main.js.map": "montes5.github.io/converter/static/js/main.932c4d01.chunk.js.map",
-    "runtime~main.js": "montes5.github.io/converter/static/js/runtime~main.fd5cfea3.js",
-    "runtime~main.js.map": "montes5.github.io/converter/static/js/runtime~main.fd5cfea3.js.map",
-    "static/js/2.2f94cb79.chunk.js": "montes5.github.io/converter/static/js/2.2f94cb79.chunk.js",
-    "static/js/2.2f94cb79.chunk.js.map": "montes5.github.io/converter/static/js/2.2f94cb79.chunk.js.map",
-    "index.html": "montes5.github.io/converter/index.html",
-    "precache-manifest.ec83f1b2b52db201bb67751bc4266216.js": "montes5.github.io/converter/precache-manifest.ec83f1b2b52db201bb67751bc4266216.js",
-    "service-worker.js": "montes5.github.io/converter/service-worker.js",
-    "static/css/main.c19f8e97.chunk.css.map": "montes5.github.io/converter/static/css/main.c19f8e97.chunk.css.map"
+    "main.css": "/converter/static/css/main.c19f8e97.chunk.css",
+    "main.js": "/converter/static/js/main.932c4d01.chunk.js",
+    "main.js.map": "/converter/static/js/main.932c4d01.chunk.js.map",
+    "runtime~main.js": "/converter/static/js/runtime~main.92049cb2.js",
+    "runtime~main.js.map": "/converter/static/js/runtime~main.92049cb2.js.map",
+    "static/js/2.2f94cb79.chunk.js": "/converter/static/js/2.2f94cb79.chunk.js",
+    "static/js/2.2f94cb79.chunk.js.map": "/converter/static/js/2.2f94cb79.chunk.js.map",
+    "index.html": "/converter/index.html",
+    "precache-manifest.bd8bd1e71f418e52d12e57452c0adbb3.js": "/converter/precache-manifest.bd8bd1e71f418e52d12e57452c0adbb3.js",
+    "service-worker.js": "/converter/service-worker.js",
+    "static/css/main.c19f8e97.chunk.css.map": "/converter/static/css/main.c19f8e97.chunk.css.map"
   }
 }
